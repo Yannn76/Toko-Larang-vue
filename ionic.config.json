@@ -1,0 +1,7 @@
+{
+  "name": "toko-okot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
